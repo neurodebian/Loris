@@ -20,4 +20,8 @@ Depends: php-mysql,
          php (>= 7~),
          libapache2-mod-php,
          ${misc:Depends}
-Description: LORIS (Longitudinal Online Research and Imaging System) is a web-based data and project management software for neuroimaging research studies. It is an OPEN SOURCE framework for storing and processing behavioural, clinical, neuroimaging and genetic data. LORIS also makes it easy to manage large datasets acquired over time in a longitudinal study, or at different locations in a large multi-site study. For more information, feel free to visit our website loris.ca. 
+Description: LORIS is a web-based data management software. 
+ It is an OPEN SOURCE framework for storing and processing behavioural, 
+ clinical, neuroimaging and genetic data. LORIS also makes it easy to manage 
+ large datasets acquired over time in a longitudinal study, or at different 
+ locations in a large multi-site study.
